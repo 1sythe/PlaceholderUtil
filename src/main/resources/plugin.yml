@@ -1,0 +1,7 @@
+name: PlaceholderUtil
+version: ${project.version}
+main: synthetic.placeholderutil.PlaceholderUtil
+api-version: 1.16
+softdepend: [ PlaceholderAPI ]
+authors: [ onXans ]
+description: Adds various usefull placeholders
